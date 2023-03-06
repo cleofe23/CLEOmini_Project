@@ -83,7 +83,7 @@ a:hover {
   display: none;
 }
 footer {
-  position: fixed;
+  position: relative;
   bottom: 0;
 }
 .footer-distributed {
