@@ -72,7 +72,7 @@ a:hover {
 }
 .checkbtn {
   font-size: 30px;
-  color: rgb(9, 139, 179);
+  color: rgb(13, 48, 201);
   float: right;
   line-height: 80px;
   margin-right: 40px;
@@ -81,6 +81,30 @@ a:hover {
 }
 #check {
   display: none;
+
+}
+.font h1{
+  font-family: "Playfair Display", serif;
+  color: rgba(19, 85, 185, 0.774);
+  text-align: center;
+}
+.font h6,h3{
+  text-align: center;
+}
+
+}
+.lead_fund p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgba(112, 109, 109, 0.87);
+  text-align: center;
+}
+
+.img-fluid{
+  height: 100px;
+  width: 300px;
+  margin-right: 20px;
+  border-radius: 10px;
+  background-color: black;
 }
 footer {
   position: relative;
